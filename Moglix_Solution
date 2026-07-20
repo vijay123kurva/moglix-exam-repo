@@ -1,4 +1,4 @@
-class Solution {
+class LongestPara {
     public int longestValidParentheses(String s) {
 
         Stack<Integer> stack = new Stack<>();
